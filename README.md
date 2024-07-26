@@ -1,18 +1,124 @@
-<h1 align="center">Hi 👋, I'm Ivan Santiago Vasquez</h1>
-<h3 align="center">A passionate frontend and backend developer from Colombia</h3>
+<h1>Hi there 👋 Ivan here!</h1>
 
-- 🔭 I’m currently working on **Grupo APL Ingeniería Ltda**
+### I'm a passionate Software Engineer student based in Colombia.
 
-- 🌱 I’m currently learning **Node Js, Express and React**
+###
 
-- 📫 How to reach me **ivan.vasquez.2020@upb.edu.co**
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=xISVBx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=xISVBx&show_icons=true&include_all_commits=true&count_private=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=xISVBx&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
+  </picture>
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=xISVBx&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=xISVBx&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=xISVBx&locale=en&mode=daily&hide_border=false&border_radius=5" height="150" alt="stats graph"/>
+  </picture>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=xISVBx&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=xISVBx&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=default&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="right" height="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=xISVBx&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"  />
+  </picture>
 
-## Projects
-<a href="https://xisvbx.github.io/my-portfolio/" >User finder</a>
+###
+
+<div align="left">
+  <h3>My Stack 💪</h3>
+  <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/css3" height="30" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" height="30" alt="github logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/gitlab" height="30" alt="gitlab logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/npm" height="30" alt="npm logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" height="30" alt="angular logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/sass" height="30" alt="sass logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/prettier" height="30" alt="prettier logo"  />
+  <img width="6" />
+</div>
+
+###
+
+<div align="left">
+  <h3>I'm currently learning 📖</h3>
+  <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwind logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/bem/000000/FFFFFF" height="30" alt="BEM logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/eslint" height="30" alt="eslint logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/vite" height="30" alt="vite logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/dotnet" height="30" alt=".net logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
+  <img width="6" />
+</div>
+
+###
+
+<div align="left">
+  <h3>My workspace 💻</h3>
+  <img src="https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=msi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%202060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
+
+###
+
+<picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=xISVBx&theme=tokyo-night"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=xISVBx"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xISVBx&theme=tokyo-night" alt="Graph" />
+  </picture>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/xISVBx?ext=activity"  height="300" alt="Leetcode" />  
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical" height="300" alt="Quote" />  
+</div>
